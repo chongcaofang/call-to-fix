@@ -152,15 +152,7 @@ a.button span {
   padding-left: 10px;
 }
 
-#download-zip span {
-  background: transparent url(../images/zip-icon.png) 12px 50% no-repeat;
-}
-#view-on-github span {
-  background: transparent url(http://icons.iconarchive.com/icons/igh0zt/ios7-style-metro-ui/24/MetroUI-Other-Phone-icon.png) 12px 50% no-repeat;
-}
-#view-on-github {
-  margin-right: 0;
-}
+
 
 code, pre {
   margin-bottom: 30px;
